@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "estate_title": "Luxury Penthouse",
+    "segment_name": "Penthouse",
+    "description": "Experience unparalleled luxury living with breathtaking views from this stunning penthouse.",
+    "price": "$5,000,000",
+    "status": "sale",
+    "area": "3000 sq ft",
+    "location": "Downtown Metropolis",
+    "facilities": [
+      "Spacious living area",
+      "Private terrace",
+      "Gourmet kitchen"
+    ],
+    "image": "https://i.ibb.co/SXd8wcK/penthouse.jpg"
+  },
+  {
+    "id": 2,
+    "estate_title": "Beachfront Retreat",
+    "segment_name": "Beachfront properties",
+    "description": "Own a piece of paradise with this exclusive beachfront property offering unrivaled ocean views.",
+    "price": "$3,500,000",
+    "status": "rent",
+    "area": "5000 sq ft",
+    "location": "Tropical Island",
+    "facilities": [
+      "Private beach access",
+      "Infinity pool",
+      "Outdoor entertainment area"
+    ],
+    "image": "https://i.ibb.co/ZhC2Rs4/beachfront.jpg"
+  },
+  {
+    "id": 3,
+    "estate_title": "Luxury Resort",
+    "segment_name": "Resorts",
+    "description": "Indulge in luxury and tranquility at this world-class resort nestled amidst stunning natural surroundings.",
+    "price": "$10,000,000",
+    "status": "rent",
+    "area": "20 acres",
+    "location": "Exotic Destination",
+    "facilities": [
+      "Spa & wellness center",
+      "Multiple dining options",
+      "Tennis courts"
+    ],
+    "image": "https://i.ibb.co/qpRtWWz/resorts.jpg"
+  },
+  {
+    "id": 4,
+    "estate_title": "Private Island Paradise",
+    "segment_name": "Private islands",
+    "description": "Escape to your own private sanctuary on this pristine island with azure waters and white sandy beaches.",
+    "price": "$20,000,000",
+    "status": "rent",
+    "area": "50 acres",
+    "location": "Remote Archipelago",
+    "facilities": ["Luxurious villas", "Yacht dock", "Helipad"],
+    "image": "https://i.ibb.co/vDDzgM5/private-island.jpg"
+  },
+  {
+    "id": 5,
+    "estate_title": "Exquisite Villa",
+    "segment_name": "Villas",
+    "description": "Experience the epitome of luxury living in this meticulously designed villa with opulent amenities.",
+    "price": "$7,500,000",
+    "status": "sale",
+    "area": "6000 sq ft",
+    "location": "Exclusive Neighborhood",
+    "facilities": [
+      "Expansive gardens",
+      "Home theater",
+      "Gourmet chef's kitchen"
+    ],
+    "image": "https://i.ibb.co/KzwMPRb/villas.jpg"
+  },
+  {
+    "id": 6,
+    "estate_title": "Grand Mansion",
+    "segment_name": "Mansions",
+    "description": "Live like royalty in this grand mansion boasting timeless elegance and unparalleled luxury.",
+    "price": "$15,000,000",
+    "status": "sale",
+    "area": "15,000 sq ft",
+    "location": "Stately Manor District",
+    "facilities": ["Ballroom", "Indoor swimming pool", "Wine cellar"],
+    "image": "https://i.ibb.co/FK9574k/mansions.jpg"
+  }
+]
